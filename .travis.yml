@@ -14,5 +14,5 @@
    # - make docker_build
   deploy:
     provider: heroku
-    app: se_hello_printer_app
-    api_key: ${HEROKU_API_keY}
+    app: warm-reaches-46461
+    api_key: ${HEROKU_API_KEY}
